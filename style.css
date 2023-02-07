@@ -1,0 +1,144 @@
+/*NAV BAR BCAKGROUND COLOR*/
+.mybg
+{
+    background-color:rgb(56 63 66);
+}
+.container-fluid
+{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+nav ul li a
+{
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+}
+.my-img
+{
+    border-radius: 50%; 
+}
+/*HOME*/
+.bg1{
+    background-color: aqua;}
+.bg2
+{
+    background-color:bisque
+}
+.bg3
+{
+    background-color: rgb(218, 130, 22);
+}
+.bg4
+{
+    background-color: blue;
+}
+.top-content
+{
+    text-align: center;
+}
+.home
+{
+    background-color: cadetblue;
+}
+.para
+{
+    justify-content: center;
+}
+.heading{
+text-align: center;
+}
+/* About us*/
+
+/*.row
+{
+   
+    justify-content: center;
+    margin:5px;
+}*/
+.logo1
+{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+.logo2
+{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+.logo3
+{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+.logo4
+{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+
+.abtheading
+{
+    text-align: center;
+}
+/*Contact us*/
+
+
+/*FOOTER START*/
+
+.top-footer{
+    background-color: rgb(41, 47, 50);
+}
+.myclass 
+{
+    color:silver;
+}
+.top-footer p
+{
+    color:white;
+}
+.top-footer 
+{
+    color:white;
+}
+.top-footer a
+{
+    color:white;
+    text-decoration: none;
+}
+.bottom-footer
+{
+    background-color:rgb(21 63 83)  ;
+    color:white;
+    text-align: center;
+}
+.social
+{
+    display: flex;
+    justify-content: center;
+}
+.social a
+{
+    padding:10px;
+    padding-top:15px;
+}
+.bottom-link
+{
+    display: flex;
+    justify-content: center;
+}
+.bottom-link a
+{
+padding:20px;
+font-size: 20px;
+}
+/*FOOTER END*/
+
+/**
+<div class="embed-responsive embed-responsive-16by9">
+          
+</div><iframe  class="embed-responsive-item"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13970.463586509028!2d75.60112953091384!3d28.909760066945914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3913b154c63e9f61%3A0xe22f3f8492cb7462!2sSiwani%2C%20Haryana%20127046!5e0!3m2!1sen!2sin!4v1675490617007!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"  frameborder="0" ></iframe>**/
